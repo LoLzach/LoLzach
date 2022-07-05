@@ -1,6 +1,4 @@
-/*
-its concurrenly absolutely disdesirable and at the same time recommended to read
-*/
+// its concurrenly absolutely disdesirable and at the same time recommended to read
 
 sh /root/greeting.sh
 
@@ -13,6 +11,9 @@ starting...
 - 📫 python3 /root/how_to_reach_me.py
 
 script started...
+
 analyzing...
+
 [Error] permission denied. no way to reach target detected. target port closed.
+
 returned ErrMsg: MegaOverAnon
