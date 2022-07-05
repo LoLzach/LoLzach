@@ -14,5 +14,7 @@
 script started...
 analyzing...
 
-```[Error] permission denied. no way to reach target detected. target port closed.
-returned ErrMsg: MegaOverAnon```
+```
+[Error] permission denied. no way to reach target detected. target port closed.
+returned ErrMsg: MegaOverAnon
+```
