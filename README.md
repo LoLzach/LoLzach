@@ -20,3 +20,6 @@ returned ErrMsg: MegaOverAnon
 ```
 
 ### Exit code 0.
+
+# `POV:`
+![monkey-coder](https://github.com/LoLzach/LoLzach/blob/main/Benjamin.jpg "Bloons TD6")
