@@ -3,7 +3,7 @@
 ***
 ***
 
-## ```👋 sh /root/greeting.sh```
+## 👋 sh /root/greeting.sh
 
   ### starting...
 
@@ -15,7 +15,7 @@
 ***
 ***
 
-## ```📫 python3 /root/how_to_reach_me.py```
+  ## 📫 python3 /root/how_to_reach_me.py
 ```
 script started...
 ```
@@ -36,5 +36,5 @@ Exit Code: -1
 ***
 ***
 
-# `POV:`
+  # `POV:`
 ![monkey-coder](https://github.com/LoLzach/LoLzach/blob/main/Benjamin.jpg "Bloons TD6")
