@@ -9,7 +9,7 @@
 
   #### 👋 Hi, whoami --> `@LoLzach`
   #### 👀 -who /me --interested-in /root/♂deep_dark_fantasies♂.mp4
-  #### 🌱 -who /me --curently-learning `"Python3"` `"NODEJS"`
+  #### 🌱 -who /me --curently-learning `"Python3"` `"NODEJS"` `"GOlang"`
   #### 💞️ -who /me --looking-to-collaborate `"GOOGLE"`
 
 ***
